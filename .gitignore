@@ -1,0 +1,24 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Python environment
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# Editor specific settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Other files and folders to ignore (if applicable)
+# Example: data files, config files with sensitive information, etc.
+# data/
+# config.yaml
