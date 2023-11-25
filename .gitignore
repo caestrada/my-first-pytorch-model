@@ -24,4 +24,5 @@ venv/
 # config.yaml
 
 # Ignore data files since they are too large for GitHub
+data.zip
 data
