@@ -9,3 +9,9 @@
 [Cards Image Dataset-Classification](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification/). This is the dataset used in this problem.
 
 ---
+
+The author mentions that these are the 3 fundamental steps are critical to training in any PyTorch model.
+
+- PyTorch Dateset
+- PyTorch Model
+- PyTorch Training Loop
