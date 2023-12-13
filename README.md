@@ -10,7 +10,7 @@
 
 ---
 
-The author mentions that these are the 3 fundamental steps are critical to training in any PyTorch model.
+The author mentions that these are the 3 fundamental steps to training in any PyTorch model.
 
 - PyTorch Dateset
 - PyTorch Model
