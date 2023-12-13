@@ -15,3 +15,13 @@ The author mentions that these are the 3 fundamental steps to training in any Py
 - PyTorch Dateset
 - PyTorch Model
 - PyTorch Training Loop
+
+PyTorch datasets are very flexible. They could be modified to be loaaded however we want. Then we could get thaT dataset and wrap it with a DataLoader for batching.
+
+```python
+fron torch.utils.data import Dataset, DataLoader
+
+dataset = PlayingCardDataset(data_dir)
+# Create dataloader
+dataloader = DataLoader(dataset, )
+```
